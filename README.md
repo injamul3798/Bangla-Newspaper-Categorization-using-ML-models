@@ -4,5 +4,5 @@ Dataset Link: https://www.kaggle.com/datasets/furcifer/bangla-newspaper-dataset/
 
 
 Project done by:
-Md. Injamul Haque
+Md. Injamul Haque && 
 Shakil Rana
